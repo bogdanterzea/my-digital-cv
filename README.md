@@ -1,10 +1,9 @@
 # Vasile-Bogdan Terzea
 #### <img src="https://img.icons8.com/stickers/2x/marker.png" width="15"/> SIBIU, ROMANIA
 #### <img src="https://img.icons8.com/stickers/2x/email-sign.png" width="15"/> terzeabogdan2007@yahoo.com
-</br>
 
 ## <img src="https://img.icons8.com/stickers/452/user-male.png" width="21"/> PROFILE
-I am a friendly person, programming enthusiast and I always look forward to improve my skills.</br>
+I am a friendly person, programming enthusiast and I always look forward to improve my skills.
 I love working in a community of passionate people, that's why I joined in Code for Romania and Roku communities and I always aim to get the best result in what I'm doing.
 
 --- 
