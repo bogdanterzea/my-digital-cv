@@ -13,7 +13,7 @@ I love working in a community of passionate people, that's why I joined in Code 
 Component owner on Epix-Roku project:
  - Implement features on a SceneGraph component
  - CI development - with GitHub automated tests I implemented linting and unit tests checks
-• E2E tests - with Roku javascript library and webdriver
+ - E2E tests - with Roku javascript library and webdriver
 
 Owner of [RokuDataDog tracker](https://github.com/Studio3/RokuDataDog):
  - Open-source library that can track errors and show details about them in DataDog
