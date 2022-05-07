@@ -46,9 +46,9 @@ Computer Science
 ### English - Advanced
 
 <div style="text-align:center">
-<a href="https://www.instagram.com/bobosshots/"><img src="https://img.icons8.com/stickers/2x/instagram-new--v2.png" width="33"/></a>
-<a href="https://www.linkedin.com/in/bogdan-terzea/" target="_blank"><img src="https://img.icons8.com/stickers/452/linkedin.png" width="33"></a>
 <a href="https://github.com/bogdanterzea"><img src="https://img.icons8.com/stickers/2x/github.png" alt="twitter" width="33"/></a>
+<a href="https://www.linkedin.com/in/bogdan-terzea/" target="_blank"><img src="https://img.icons8.com/stickers/452/linkedin.png" width="33"></a>
+<a href="https://www.instagram.com/bobosshots/"><img src="https://img.icons8.com/stickers/2x/instagram-new--v2.png" width="33"/></a>
 <h4> <img src="https://img.icons8.com/stickers/2x/marker.png" width="15"/> SIBIU, ROMANIA </h4>
 <h4> <img src="https://img.icons8.com/stickers/2x/email-sign.png" width="15"/> terzeabogdan2007@yahoo.com </h4>
 </div>
