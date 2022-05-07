@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Vasile-Bogdan Terzea
+#### <img src="https://img.icons8.com/stickers/2x/marker.png" width="15"/> SIBIU, ROMANIA
+#### <img src="https://img.icons8.com/stickers/2x/email-sign.png" width="15"/> terzeabogdan2007@yahoo.com
+</br>
 
-You can use the [editor on GitHub](https://github.com/bogdanterzea/my-digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## <img src="https://img.icons8.com/stickers/452/user-male.png" width="21"/> PROFILE
+I am a friendly person, programming enthusiast and I always look forward to improve my skills.</br>
+I love working in a community of passionate people, that's why I joined in Code for Romania and Roku communities and I always aim to get the best result in what I'm doing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+--- 
 
-### Markdown
+## <img src="https://img.icons8.com/stickers/452/briefcase.png" width="21"/> EMPLOYMENT HISTORY
+### Frontend Developer(Roku) at Agile Freaks, Sibiu 
+##### [May 2019 - present]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Component owner on Epix-Roku project:
+ - Implement features on a SceneGraph component
+ - CI development - with GitHub automated tests I implemented linting and unit tests checks
+• E2E tests - with Roku javascript library and webdriver
 
-```markdown
-Syntax highlighted code block
+Owner of [RokuDataDog tracker](https://github.com/Studio3/RokuDataDog):
+ - Open-source library that can track errors and show details about them in DataDog
 
-# Header 1
-## Header 2
-### Header 3
+### Software Engineer at Continental, Sibiu 
+##### [November 2017 — May 2019]
+I was responsible for identifying errors that occurs on car sensors tested in different conditions.
+I developed the following skills:
+ - Assembly
+ - Lauterbach
+ - IMS
+ - C++
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## <img src="https://img.icons8.com/stickers/452/idea.png" width="21"/> EDUCATION
 
-**Bold** and _Italic_ and `Code` text
+### Master, [University Lucian Blaga of Sibiu, Sibiu](https://stiinte.ulbsibiu.ro/)
+##### [October 2018 — July 2020]
+Studied STIA - Advanced Computer Systems and Technologies
 
-[Link](url) and ![Image](src)
-```
+### Bachelor Degree, [University Lucian Blaga of Sibiu, Sibiu](https://stiinte.ulbsibiu.ro/)
+##### [October 2015 — October 2018]
+Computer Science
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
 
-### Jekyll Themes
+## <img src="https://img.icons8.com/stickers/2x/speech-bubble.png" height="21"/> LANGUAGES
+### Romanian - Native
+### English - Advanced
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bogdanterzea/my-digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div style="text-align:center">
+<a href="https://www.instagram.com/bobosshots/"><img src="https://img.icons8.com/stickers/2x/instagram-new--v2.png" width="33"/></a>
+<a href="https://www.linkedin.com/in/bogdan-terzea/" target="_blank"><img src="https://img.icons8.com/stickers/452/linkedin.png" width="33"></a>
+<a href="https://github.com/bogdanterzea"><img src="https://img.icons8.com/stickers/2x/github.png" alt="twitter" width="33"/></a>
+</div>
