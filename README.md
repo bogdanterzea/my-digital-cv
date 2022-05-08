@@ -44,7 +44,7 @@ Computer Science
 ### English - Advanced
 
 <div style="text-align:center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://bogdanterzea.github.io/my-digital-cv/&left_color=blue&right_color=yellow"></img>
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://bogdanterzea.github.io/my-digital-cv/&left_color=blue&right_color=yellow"/>
 </div>
 
 <div style="text-align:center">
