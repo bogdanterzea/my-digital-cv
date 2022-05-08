@@ -44,6 +44,10 @@ Computer Science
 ### English - Advanced
 
 <div style="text-align:center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://bogdanterzea.github.io/my-digital-cv/&left_color=blue&right_color=yellow"></img>
+</div>
+
+<div style="text-align:center">
 <a href="https://github.com/bogdanterzea"><img src="https://img.icons8.com/stickers/2x/github.png" alt="twitter" width="33"/></a>
 <a href="https://www.linkedin.com/in/bogdan-terzea/" target="_blank"><img src="https://img.icons8.com/stickers/452/linkedin.png" width="33"></a>
 <a href="https://www.instagram.com/bobosshots/"><img src="https://img.icons8.com/stickers/2x/instagram-new--v2.png" width="33"/></a>
