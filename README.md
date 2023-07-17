@@ -50,7 +50,7 @@ Computer Science
 ### English - Advanced
 
 <div style="text-align:center">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbogdanterzea%2Fmy-digital-cv&countColor=%23263759&style=plastic&labelStyle=lower"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbogdanterzea%2Fmy-digital-cv&labelColor=%23cfcf7d&countColor=%23263759&style=plastic&labelStyle=lower"/>
 </div>
 
 <div style="text-align:center">
