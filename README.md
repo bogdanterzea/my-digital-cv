@@ -1,6 +1,6 @@
 ## <img src="https://img.icons8.com/stickers/452/user-male.png" width="21"/> PROFILE
-I am a friendly person, programming enthusiast and I always look forward to improve my skills.
-I love working in a community of passionate people, that's why I joined in Code for Romania and Roku communities and I always aim to get the best result in what I'm doing.
+I am a friendly person and programming enthusiast and I always look forward to improve my skills.
+I love working in a community of passionate people, that's why I joined Code for Romania and Roku communities and I always aim to get the best result in what I'm doing.
 
 --- 
 
@@ -39,7 +39,7 @@ I developed the following skills:
 ##### [October 2018 — July 2020]
 Studied STIA - Advanced Computer Systems and Technologies
 
-### Bachelor Degree, [University Lucian Blaga of Sibiu, Sibiu](https://stiinte.ulbsibiu.ro/)
+### Bachelor's Degree, [University Lucian Blaga of Sibiu, Sibiu](https://stiinte.ulbsibiu.ro/)
 ##### [October 2015 — October 2018]
 Computer Science
 
@@ -50,7 +50,7 @@ Computer Science
 ### English - Advanced
 
 <div style="text-align:center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://bogdanterzea.github.io/my-digital-cv/&left_color=blue&right_color=yellow"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbogdanterzea%2Fmy-digital-cv&countColor=%23263759&style=plastic&labelStyle=lower"/>
 </div>
 
 <div style="text-align:center">
