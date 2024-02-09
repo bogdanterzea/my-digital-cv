@@ -1,5 +1,6 @@
 ## <img src="https://img.icons8.com/stickers/452/user-male.png" width="21"/> PROFILE
-I am a friendly person and programming enthusiast and I always look forward to improve my skills.
+I am a friendly person and programming enthusiast.
+I always look forward to improve my skills.
 I love working in a community of passionate people, that's why I joined Code for Romania and Roku communities and I always aim to get the best result in what I'm doing.
 
 --- 
@@ -11,9 +12,10 @@ I love working in a community of passionate people, that's why I joined Code for
 Component owner on Epix-Roku project:
  - Beginning as an intern focused on Roku application development, elevated to lead the team in one year.
  - Implement features on a SceneGraph component.
- - Lading the Roku development team, mentoring team members, and making strategic decisions on implementation approaches.
+ - Leading the Roku development team, mentoring team members, and making strategic decisions on implementation approaches.
  - CI development - created GitHub automation for linting and unit tests. This improved productivity by giving back ~10 minutes/pr to developers.
  - Initiated and executed end-to-end testing frameworks using Roku's JavaScript library and WebDriver, reducing crashes from an 85% crash-free application to a 99.3% crash-free application.
+ - Migrated application from Brightscript to Scenegraph then to Brighterscript to use the latest capabilities.
 
 
 Owner of [RokuDataDog tracker](https://github.com/Studio3/RokuDataDog):
