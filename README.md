@@ -9,9 +9,12 @@ I love working in a community of passionate people, that's why I joined Code for
 ##### [May 2019 - present]
 
 Component owner on Epix-Roku project:
- - Implement features on a SceneGraph component
- - CI development - with GitHub automated tests I implemented linting and unit tests checks
- - E2E tests - with Roku javascript library and webdriver
+ - Beginning as an intern focused on Roku application development, elevated to lead the team in one year.
+ - Implement features on a SceneGraph component.
+ - Lading the Roku development team, mentoring team members, and making strategic decisions on implementation approaches.
+ - CI development - created GitHub automation for linting and unit tests. This improved productivity by giving back ~10 minutes/pr to developers.
+ - Initiated and executed end-to-end testing frameworks using Roku's JavaScript library and WebDriver, reducing crashes from an 85% crash-free application to a 99.3% crash-free application.
+
 
 Owner of [RokuDataDog tracker](https://github.com/Studio3/RokuDataDog):
  - Open-source library that can track errors and show details about them in DataDog
