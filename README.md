@@ -28,12 +28,6 @@ I developed the following skills:
  - IMS
  - C++
 
-### Photographer
-##### [September 2018 - present]
- - Event photography
- - Concert photography
- - Individual photoshoot
-
 ---
 
 ## <img src="https://img.icons8.com/stickers/452/idea.png" width="21"/> EDUCATION
