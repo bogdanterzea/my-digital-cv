@@ -9,26 +9,23 @@ I love working in a community of passionate people, that's why I joined Code for
 ### Frontend Developer(Roku) at Agile Freaks, Sibiu 
 ##### [May 2019 - present]
 
-Component owner on Epix-Roku project:
+Component owner on Epix/MGM+ - Roku project:
  - Beginning as an intern focused on Roku application development, elevated to lead the team in one year.
- - Implement features on a SceneGraph component.
+ - Implement complex features on a SceneGraph application, improving UX and navigation.
  - Leading the Roku development team, mentoring team members, and making strategic decisions on implementation approaches.
- - CI development - created GitHub automation for linting and unit tests. This improved productivity by giving back ~10 minutes/pr to developers.
+ - Designed and managed CI/CD pipelines, automating linting and unit tests, enhancing productivity by reducing manual work and giving back ~10 minutes/pr to developers.
  - Initiated and executed end-to-end testing frameworks using Roku's JavaScript library and WebDriver, reducing crashes from an 85% crash-free application to a 99.3% crash-free application.
  - Migrated application from Brightscript to Scenegraph then to Brighterscript to use the latest capabilities.
-
+ - Reduced crashrate from 90% to 99.9% crashfree application.
+ - Achieved a ~20% reduction in code complexity through modularized components and reusable services.
 
 Owner of [RokuDataDog tracker](https://github.com/Studio3/RokuDataDog):
  - Open-source library that can track errors and show details about them in DataDog
 
 ### Software Engineer at Continental, Sibiu 
 ##### [November 2017 — May 2019]
-I was responsible for identifying errors that occurs on car sensors tested in different conditions.
-I developed the following skills:
- - Assembly
- - Lauterbach
- - IMS
- - C++
+ - Developed solutions for identifying and resolving errors in car sensor systems using Assembly, C++, and Lauterbach tools.
+ - Analyzed sensor data in different driving scenarios, ensuring compliance and safety standards.
 
 ---
 
